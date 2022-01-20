@@ -1,7 +1,7 @@
 function title(){
     return(
         <div>
-            <title>Equilibrium #3429</title>
+            <h1>Equilibrium #3429</h1>
         </div>
     )
 }
