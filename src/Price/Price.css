@@ -1,17 +1,15 @@
 
 .PriceImg{
     position: absolute;
-    left: 0%;
-    right: 88.23%;
-    top: 5%;
-    bottom: 5%;
+    top:35%;
 }
 
 .priceText {
     position: absolute;
     height: 20px;
     left: 5%;
-    right: 1.07%;
+    top: 35%;
+    /* right: 1.07%; */
     font-family: Outfit;
     font-style: normal;
     font-weight: 600;
