@@ -12,8 +12,11 @@ function App() {
       <ProductImage></ProductImage>
       <Title></Title>
       <SupportingText></SupportingText>
-      <Price></Price>
-      <TimeLeft></TimeLeft>
+      <div className="Details">
+        <Price></Price>
+        <TimeLeft></TimeLeft>
+      </div>
+      <div className="Horizontal"></div>
       <Creator></Creator>
     </div>
   );

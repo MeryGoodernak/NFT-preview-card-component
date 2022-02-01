@@ -1,0 +1,28 @@
+.Title {
+    /* Equilibrium #3429 */
+
+    position: absolute;
+    left: 6.86%;
+    right: 6.86%;
+    top: 58.72%;
+    bottom: 36.58%;
+
+    /* Heading */
+
+    font-family: Outfit;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+    /* identical to box height */
+
+
+    /* White */
+
+    color: #FFFFFF;
+}
+
+.Title:hover {
+    color: cyan;
+    cursor: pointer;
+}

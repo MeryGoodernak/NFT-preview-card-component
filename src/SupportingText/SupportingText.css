@@ -1,0 +1,23 @@
+.SupportingText {
+
+    position: absolute;
+    height: 52px;
+    left: 6.86%;
+    right: 6.86%;
+    top: calc(50% - 52px/2 + 122px);
+
+    /* Body */
+
+    font-family: Outfit;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+    /* or 144% */
+
+
+    /* Soft Blue */
+
+    color: #8BACD9;
+
+}

@@ -1,10 +1,13 @@
-import productCrtr from './images/image-avatar.png';
+import './Creator.css';
+import imageSource from './images/image-avatar.png';
 
 function creator() {
     return(
         <div>
-            <img src={productCrtr} alt="Product Creator avatar" />
-            <span>Creation of <span>Jules Wyvern</span></span>
+            <img src={imageSource} alt="Avatar" className='Avatar' />
+            <div className="Creator">
+                <span id="One">Creation of</span><span id="Two">Jules Wyvern</span>
+            </div>
         </div>
     );
 }

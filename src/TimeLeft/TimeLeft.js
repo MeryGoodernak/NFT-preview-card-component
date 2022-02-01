@@ -1,10 +1,11 @@
 import clock from './images/icon-clock.svg';
+import './TimeLeft.css';
 
 function timeLeft() {
     return(
         <div>
-            <img src={clock} alt="clock.svg" />
-            <span>3 days left</span>
+            <img src={clock} alt="clock.svg" className='Clock'/>
+            <span className='TimeLeftText'>3 days left</span>
         </div>
     );
 }

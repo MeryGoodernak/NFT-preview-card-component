@@ -1,7 +1,10 @@
+import './SupportingText.css';
+
+
 function supportingText() {
     return(
         <div>
-            <p>Our Equilibrium collection promotes balance and calm.</p>
+            <p className="SupportingText">Our Equilibrium collection promotes balance and calm.</p>
         </div>
     );
 }
