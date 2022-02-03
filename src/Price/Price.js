@@ -3,7 +3,7 @@ import './Price.css';
 
 function price() {
     return(
-        <div>
+        <div className='priceDiv'>
             <img src={productPrc} alt="price.svg" className='PriceImg' />
             <span className='priceText'>0.041 ETH</span>
         </div>

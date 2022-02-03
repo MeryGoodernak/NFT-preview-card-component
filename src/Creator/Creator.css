@@ -1,49 +1,51 @@
+.creatorDiv{
+    position: absolute;
+    left: 6.85%;
+    right: 6.85%;
+    top: 89.09%;
+    width: 86.26%;
+    height: 5.5%;
+}
+
 .Avatar {
     position: absolute;
-    left: 6.86%;
-    right: 83.71%;
-    top: 91%;
-    bottom: 5.37%;
     border: 1px solid #FFFFFF;
     box-sizing: border-box;
     border-radius: 50%;
-    width: -webkit-fill-available;
+    width: 33px;
+    height: 33px;
 }
 
 .Creator {
     position: absolute;
-    left: 20.86%;
+    left: 15%;
     right: 27.43%;
-    top: 91%;
-    bottom: 6.54%;
+    top: 17%;
+    width: 77%;
+    height: auto;
 }
 
 #One {
     position: absolute;
-    height: 20px;
     left: 0%;
-
+    height: 20px;
     font-family: Outfit;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 20px;
-
     color: #8BACD9;
 }
 
 #Two {
     position: absolute;
+    left: 40%;
     height: 20px;
-    left: 47.51%;
-    right: 1.1%;
-
     font-family: Outfit;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 20px;
-
     color: #FFFFFF;
 }
 
@@ -51,9 +53,9 @@
     color: cyan;
     cursor: pointer;
 }
+
 @media (max-width:400px){
     #Two{
-        left: 56%;
-        right: -17%;
+        left: 43%;
     }
 }

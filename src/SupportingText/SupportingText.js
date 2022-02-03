@@ -3,8 +3,8 @@ import './SupportingText.css';
 
 function supportingText() {
     return(
-        <div>
-            <p className="SupportingText">Our Equilibrium collection promotes balance and calm.</p>
+        <div className="SupportingText">
+            <p>Our Equilibrium collection promotes balance and calm.</p>
         </div>
     );
 }

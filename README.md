@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
 ## Table of contents
 
@@ -27,11 +27,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./preview.png)
 
 ### Links
 
-- Solution URL: [](https://github.com/MeryGoodernak/NFT-preview-card-component)
+- Solution URL: [GitHub/MeryGoodernak](https://github.com/MeryGoodernak/NFT-preview-card-component)
 
 ## My process
 
@@ -47,17 +47,17 @@ Users should be able to:
 ### What I learned
 
 I learned:
-- Break the project into small components in roder to develop with React component.
-- Use relative units like percentage (%) in order to develop responsive pages.
+- Break down the project into small components in oroder to develop with React component.
+- Use relative length units in styling to implement responsive pages.
 
 ### Continued development
 
-- Add different Themes among which user can select .
+- Add different **themes** among which user can select .
 - Arrange several instans of nft-preview-card-component next to each other in reponsive mobile-first webpage.
 
 ### Useful resources
 
-- [Resource 1](https://reactjs.org/tutorial/tutorial.html) - This tutorial helped me how to start with React and how to break the project into small component and develop them with React. The tutorial is easily comprehensible and useful for who want to get start with React. I really liked this pattern and will use it going forward.
-- [Resource 2](https://developer.mozilla.org/en-US/docs/Web/CSS) - Any question that I have about CSS or other open web technologies I can easily find the answer on this website. MDN elaborates all subjects through the various examples and has been perfectly categorized.
+- [React tutorial](https://reactjs.org/tutorial/tutorial.html) - This tutorial helped me how to start with React and how to break down the project into small component and develop them with React. The tutorial is easily comprehensible and useful for who want to get start with React. I really liked this pattern and will use it going forward.
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Any question that I have about CSS or other open web technologies I can easily find the answer on this website. MDN elaborates all subjects through the various examples and has been perfectly categorized.
 
 - Frontend Mentor - [@MeryGoodernak](https://www.frontendmentor.io/profile/MeryGoodernak)
