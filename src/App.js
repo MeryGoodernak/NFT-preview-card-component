@@ -8,11 +8,11 @@ import Creator from './Creator/Creator';
 
 function App() {
   return (
-    <div role="card" className="App">
+    <div className="App">
       <ProductImage></ProductImage>
       <Title></Title>
       <SupportingText></SupportingText>
-      <div role="price" className="Details">
+      <div className="Details">
         <Price></Price>
         <TimeLeft></TimeLeft>
       </div>
