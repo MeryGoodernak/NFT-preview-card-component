@@ -3,7 +3,7 @@ import imageSource from './images/image-avatar.png';
 
 function creator() {
     return(
-        <div className='creatorDiv'>
+        <div role="author" className='creatorDiv'>
             <img src={imageSource} alt="Avatar" className='Avatar' />
             <div className="Creator">
                 <span id="One">Creation of</span><span id="Two">Jules Wyvern</span>

@@ -4,7 +4,7 @@ import './PImage.css';
 
 function productImage() {
     return(
-        <div className="PImage">
+        <div role="image" className="PImage">
             <img src={productImg} alt='Image of the product' />
             <img src={eyeIcon} alt="Eye Icon"  id="Icon" />
         </div>

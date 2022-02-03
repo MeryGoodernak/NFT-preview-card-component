@@ -3,7 +3,7 @@ import './SupportingText.css';
 
 function supportingText() {
     return(
-        <div className="SupportingText">
+        <div role="productInfo" className="SupportingText">
             <p>Our Equilibrium collection promotes balance and calm.</p>
         </div>
     );
